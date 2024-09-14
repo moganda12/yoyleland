@@ -13,6 +13,6 @@ unitCaoModifier: 15
 research: {
     planet: bfdiplanet
     root: true
-    name: The Beggining
+    name: BFDI
     requiresUnlock: false
 }
