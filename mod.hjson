@@ -1,0 +1,11 @@
+name: "yoylemod"
+displayName: "Yoyleland"
+author: "skyTheDragon"
+description: '''
+Journey from the the goiky plain over to Yoyleland with FreeSmart in this epic BFDI journey
+'''
+version: "this mod is like not ready for a version"
+minGameVersion: 146
+dependencies: [ ]
+hidden: false
+subtitle: "\"yoylecake\" - Bubble, on multiple occasions"

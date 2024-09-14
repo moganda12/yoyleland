@@ -1,0 +1,4 @@
+localizedName:"BFDI planet"
+description:"the planet on which BFDI took place"
+alwaysUnlocked:true
+parent:sun
