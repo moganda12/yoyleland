@@ -1,0 +1,6 @@
+name: contestant essence
+description: the essence of contestants, it used to amke contestant related materials
+hardness: 1
+cost: 0.5
+alwaysUnlocked: true
+color: f040ef
