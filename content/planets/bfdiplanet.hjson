@@ -6,12 +6,11 @@ parent:sun
 mesh: [
  {
     //water
-    type: NoiseMesh
+    type: hexSkyMesh
     planet: bfdiplanet
     divisions: 5
-    seed: 7
-    radius: 1.229
-    color1: 587d89
+    radius: 1.22
+    color1: 1c19ca
     color2: 5e95a8
     octaves: 3.7
     persistence: 1.1
@@ -21,7 +20,7 @@ mesh: [
     type: NoiseMesh
     planet: bfdiplanet
     divisions: 5
-    radius: 1.22
+    radius: 1.18
     seed: 94
     color1: fb18ff
     color2: 8f2691
@@ -31,10 +30,10 @@ mesh: [
   {
     //sand
     type: NoiseMesh
-    planet: asthosus
+    planet: bfdiplanet
     divisions: 6
     seed: 101
-    radius: 1.2441
+    radius: 1.2
     color1: 53f830
     color2: 135704
     octaves: 5.1
