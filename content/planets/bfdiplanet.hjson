@@ -35,60 +35,10 @@ mesh: [
     divisions: 6
     seed: 101
     radius: 1.2441
-    color1: babca8
-    color2: c6c282
+    color1: 53f830
+    color2: 135704
     octaves: 5.1
     persistence: 0.8
-  }
-  {
-    //demetite
-    type: NoiseMesh
-    planet: asthosus
-    seed: 69
-    divisions: 5
-    color1: d5c995
-    color2: 666359
-    radius: 1.212
-    octaves: 4
-    persistence: 1
-    scale: 0.75
-    mag: 1
-  }
-  {
-    //barite
-    type: NoiseMesh
-    planet: asthosus
-    divisions: 5
-    seed: 19
-    radius: 1.247
-    color1: f8efe6
-    color2: bab4ae
-    octaves: 4.5
-    persistence: 1.1
-  }
-  {
-    //radian barite
-    type: NoiseMesh
-    planet: asthosus
-    divisions: 6
-    seed: 61
-    radius: 1.248
-    color1: 6b9388
-    color2: 425b54
-    octaves: 4.5
-    persistence: 1.1
-  }
-  {
-    //red sand
-    type: NoiseMesh
-    planet: asthosus
-    divisions: 6
-    seed: 17
-    radius: 1.2514
-    color1: dea67d
-    color2: d58b79
-    octaves: 5.7
-    persistence: 0.9
   }
 ]
 cloudMesh: [
