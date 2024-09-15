@@ -1,6 +1,6 @@
 {
 type: CoreBlock
-category: storage
+category: effect
 name: bad drawing
 description: a bad drawing of a core made by Pencil.
 requirements: [

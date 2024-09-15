@@ -7,7 +7,7 @@ mesh: [
  {
     //water
     type: NoiseMesh
-    planet: asthosus
+    planet: bfdiplanet
     divisions: 5
     seed: 7
     radius: 1.229
@@ -17,9 +17,9 @@ mesh: [
     persistence: 1.1
   }
   {
-    //ferrinite
+    //yoyleland
     type: NoiseMesh
-    planet: asthosus
+    planet: bfdiplanet
     divisions: 5
     radius: 1.22
     seed: 94
