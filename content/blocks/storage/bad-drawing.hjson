@@ -1,4 +1,6 @@
+{
 type: CoreBlock
+category: storage
 name: bad drawing
 description: a bad drawing of a core made by Pencil.
 requirements: [
@@ -15,4 +17,5 @@ research: {
     root: true
     name: BFDI
     requiresUnlock: false
+}
 }
