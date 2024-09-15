@@ -131,13 +131,13 @@ cloudMesh: [
 ]
 generator: {
   octaves: 3
-  persistence: 0.52
-  scale: 22
-  mag: 0.721
-  thresh: 1.152
-  min: 100
-  max: 100
-  radMin: 220
-  radMax: 600
+  persistence: 0.1
+  scale: 1
+  mag: 50
+  thresh: 1
+  min: 10
+  max: 1
+  radMin: 78
+  radMax: 5000
 }
 }
