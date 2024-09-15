@@ -9,8 +9,9 @@ mesh: [
     type: hexSkyMesh
     planet: bfdiplanet
     divisions: 5
-    radius: 1.22
-    color1: 1c19ca
+    seed: 7
+    radius: 1.21
+    color1: 587d89
     color2: 5e95a8
     octaves: 3.7
     persistence: 1.1
@@ -20,7 +21,7 @@ mesh: [
     type: NoiseMesh
     planet: bfdiplanet
     divisions: 5
-    radius: 1.18
+    radius: 1.209
     seed: 94
     color1: fb18ff
     color2: 8f2691
@@ -28,12 +29,12 @@ mesh: [
     persistence: 0.6
   }
   {
-    //sand
+    //land
     type: NoiseMesh
-    planet: bfdiplanet
-    divisions: 6
+    planet: asthosus
+    divisions: 10
     seed: 101
-    radius: 1.2
+    radius: 1.21
     color1: 53f830
     color2: 135704
     octaves: 5.1
