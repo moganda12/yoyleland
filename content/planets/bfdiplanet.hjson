@@ -32,7 +32,7 @@ mesh: [
     //land
     type: NoiseMesh
     planet: asthosus
-    divisions: 10
+    divisions: 7
     seed: 101
     radius: 1.21
     color1: 53f830
