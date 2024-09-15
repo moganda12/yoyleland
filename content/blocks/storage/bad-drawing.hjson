@@ -11,7 +11,7 @@ size: 3
 alwaysUnlocked: true
 health: 2000
 itemCapacity: 4000
-unitCaoModifier: 15
+unitCapModifier: 15
 research: {
     planet: bfdiplanet
     root: true
