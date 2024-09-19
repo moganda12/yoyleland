@@ -2,9 +2,11 @@ name: "yoylemod"
 displayName: "Yoyleland"
 author: "skyTheDragon"
 description: '''
-Journey from the the goiky plain over to Yoyleland with FreeSmart in this epic BFDI journey
+TO skyTheDragon,
+Just copy from the README.md.
+From: qwertyuiop265000
 '''
-version: "this mod is like not ready for a version"
+version: "ultra-early-alpha-v-negative-1"
 minGameVersion: 146
 dependencies: [ ]
 hidden: false
