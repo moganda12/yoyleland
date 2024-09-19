@@ -1,21 +1,21 @@
 {
 type: CoreBlock
 category: effect
-name: bad drawing
-description: a bad drawing of a core made by Pencil.
+name: Poorly Drawn Core: Shard
+description: A low-effort drawing of a Core: Shard done by Pencil. Not very durable, but has a higher capacity.
 requirements: [
     contestant-essence/1000
 ]
 isFirstTier: true
 size: 3
 alwaysUnlocked: true
-health: 2000
-itemCapacity: 4000
+health: 500
+itemCapacity: 4500
 unitCapModifier: 15
 research: {
     planet: bfdiplanet
     root: true
-    name: BFDI
+    name: Taking The Plunge
     requiresUnlock: false
 }
 }

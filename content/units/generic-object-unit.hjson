@@ -1,0 +1,36 @@
+type: mech
+localizedName: Generic Object
+description: Generic living object unit with a basic melee attack.
+flying: false
+speed: 1
+hitSize: 9
+health: 200
+armor: 0
+range: 10
+
+weapons: [
+	{
+		name: arm
+		reload: 30
+		x: 4
+		y: 2
+		top: false
+		shots: 1
+		inaccuracy: 0
+		bullet: {
+			type: BasicBulletType
+			damage: 15
+			speed: 10
+			width: 2
+			height: 20
+            pierce: true
+            pierceBuilding: false
+            pierceCap: 15
+			lifetime: 3
+			ammoMultiplier: 2
+			recoil: 0.4
+		}
+	}
+]
+
+research: basic-cloner

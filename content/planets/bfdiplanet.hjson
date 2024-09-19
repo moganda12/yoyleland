@@ -1,6 +1,6 @@
 {
-localizedName:"BFDI planet"
-description:"the planet on which BFDI took place"
+localizedName:"Planet-To-Be-Renamed"
+description:"A planet full of living objects. Of course they named it Earth. Why wouldn't they?"
 alwaysUnlocked:true
 parent:sun
 mesh: [
