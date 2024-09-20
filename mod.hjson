@@ -2,9 +2,8 @@ name: "yoylemod"
 displayName: "Yoyleland"
 author: "skyTheDragon"
 description: '''
-TO skyTheDragon,
-Just copy from the README.md.
-From: qwertyuiop265000
+This mod for Mindustry adds content related to Battle for Dream Island, a webseries that has been produced since 2010. 
+[gray]By making this description, we assume no liability for the end-user being a dumb stupid idiot and thinking we made BFDI. This is a fan project, and is not endorsed by anyone in any way in jacknjellify, the owners of BFDI.
 '''
 version: "ultra-early-alpha-v-negative-1"
 minGameVersion: 146
