@@ -8,13 +8,7 @@ size: 3
 category: production
 research: bad-drawing
 alwaysUnlocked: true
-teir: 100
-
-drillables: [
-    "coal",
-    "copper",
-    "lead"
-]
+teir: 1
 
 requirements: [
     "copper/1"
