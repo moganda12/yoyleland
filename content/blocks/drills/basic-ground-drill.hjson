@@ -8,7 +8,7 @@ size: 3
 category: production
 research: bad-drawing
 alwaysUnlocked: true
-teir: 1
+teir: 2
 
 requirements: [
     "copper/1"
