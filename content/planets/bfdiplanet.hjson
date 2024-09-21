@@ -90,4 +90,5 @@ generator: {
   radMin: 78
   radMax: 5000
 }
+sectorSize: 2
 }
