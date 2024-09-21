@@ -1,5 +1,6 @@
 {
 type: OreBlock
+name: Pencil Lead Ore
 itemDrop: pencil-lead
 variants: 1
 }
