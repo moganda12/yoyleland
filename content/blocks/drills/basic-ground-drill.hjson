@@ -1,0 +1,7 @@
+{
+type: Drill
+name: Basic Ground Drill
+description: A basic drill for simple materials
+drillTime: 100
+hasLiquids: false
+}
