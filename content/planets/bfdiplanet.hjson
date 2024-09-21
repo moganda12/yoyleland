@@ -70,7 +70,7 @@ cloudMesh: [
 generator: {
   octaves: 3
   persistence: 0.1
-  scale: 1
+  scale: 100
   mag: 50
   thresh: 1
   min: 100
@@ -86,6 +86,7 @@ accessible: true
 drawOrbit: true
 startSector: 0
 orbitSpacing: 1
+defaultCore: bad-drawing
 itemWhitelist: [
   "contestant-essence"
 ]
