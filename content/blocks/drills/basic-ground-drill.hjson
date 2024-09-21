@@ -7,7 +7,8 @@ hasLiquids: false
 size: 3
 category: production
 research: bad-drawing
-alwaysUnlocked:true
+alwaysUnlocked: true
+teir: 1
 
 requirements: [
     "copper/1"
