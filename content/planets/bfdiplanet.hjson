@@ -66,18 +66,6 @@ cloudMesh: [
    scl: 0.9
    thresh: 0.6
   }
-  {
-   type: HexSkyMesh
-   planet: asthosus
-   speed: 0.891
-   radius: 0.091
-   divisions: 6
-   color: eafffd7e
-   octaves: 3
-   persistence: 0.5
-   scl: 1.1
-   thresh: 0.6
-  }
 ]
 generator: {
   octaves: 3
@@ -85,10 +73,20 @@ generator: {
   scale: 1
   mag: 50
   thresh: 1
-  min: 10
-  max: 1
+  min: 100
+  max: 200
   radMin: 78
   radMax: 5000
 }
 sectorSize: 2
+radius: 1.2
+clearSectorOnLose: true
+allowWaveSimulation: false
+accessible: true
+drawOrbit: true
+startSector: 0
+orbitSpacing: 1
+itemWhitelist: [
+  "contestant-essence"
+]
 }
