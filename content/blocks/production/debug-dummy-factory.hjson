@@ -1,0 +1,18 @@
+{
+type: GenericCrafter
+name: "[debug] Dummy Factory"
+size: 1
+scaledHealth: 10000
+craftEffect: smeltsmoke
+outputItems: [
+    debug-dummy/100
+]
+consumes: {}
+craftTime: 1
+category: crafting
+research: debug-dummy
+alwaysUnlocked: true
+requirements: [
+    pencil-lead/1
+]
+}

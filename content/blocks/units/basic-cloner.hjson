@@ -15,7 +15,7 @@ plans: [
     {
         unit: generic-object-unit
         requirements: [
-            dummy/20
+            debug-dummy/20
         ]
         time: 1000
     }
