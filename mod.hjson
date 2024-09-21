@@ -1,3 +1,4 @@
+{
 name: "yoylemod"
 displayName: "Yoyleland"
 author: "skyTheDragon"
@@ -10,3 +11,4 @@ minGameVersion: 146
 dependencies: [ ]
 hidden: false
 subtitle: "\"yoylecake\" - Bubble, on multiple occasions"
+}
