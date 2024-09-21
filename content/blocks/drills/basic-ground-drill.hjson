@@ -4,10 +4,12 @@ name: Basic Ground Drill
 description: A basic drill for simple materials
 drillTime: 100
 hasLiquids: false
+size: 3
+category: production
+research: bad-drawing
+alwaysUnlocked:true
 
 requirements: [
     "copper/1"
 ]
-
-category: drills
 }
