@@ -3,5 +3,10 @@ name: Pencil lead
 description: Pencil lead obtained from the ground, not sepecifcally Pencil's
 hardness: 1
 cost: 0.5
-alwaysUnlocked: false
+alwaysUnlocked: true
+research: bad-drawing
+hiddenOnPlanets: [
+    serpulo,
+    erekir 
+]
 }
