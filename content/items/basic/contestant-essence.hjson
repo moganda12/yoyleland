@@ -1,6 +1,8 @@
+{
 name: Yoylite
 description: A somewhat rare material, used in machinery related to living objects.
 hardness: 1
 cost: 0.5
 alwaysUnlocked: true
 color: f040ef
+}
