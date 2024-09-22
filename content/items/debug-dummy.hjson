@@ -1,6 +1,6 @@
 {
 name: "[debug] Dummy"
-description: placeholder
+description: You shouldn't see this in a final build.
 hardness: 1
 cost: 0.5
 alwaysUnlocked: true
