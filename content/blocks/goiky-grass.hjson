@@ -1,6 +1,6 @@
 {
 type: floor
-name: goiky grass
-description: "normal green grass, it is unprofesionally drawn and is found on the plains of goiky"
+name: Goikian Grass
+description: "Normal grass. Found covering the plains of Goiky."
 variants: 1
 }
