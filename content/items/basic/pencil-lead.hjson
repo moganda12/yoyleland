@@ -1,6 +1,6 @@
 {
-name: Pencil lead
-description: Pencil lead obtained from the ground, not sepecifcally Pencil's
+name: Pencil Lead
+description: Pencil lead obtained from the ground, not specifically Pencil's. 
 hardness: 1
 cost: 0.5
 alwaysUnlocked: true
