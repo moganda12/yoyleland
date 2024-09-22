@@ -3,8 +3,9 @@ type: CoreBlock
 category: effect
 name: Poorly Drawn Core: Shard
 description: A low-effort drawing of a Core: Shard done by Pencil. Not very durable, but has a higher capacity.
+lore: While Pencil is undeniably great at two-dimensional drawing, that doesn't really translate well into three-dimensional drawing, if this can even be called a drawing. Nonetheless, this core is somehow functional, and we need a core that works on softer terrain. This is just that.
 requirements: [
-    contestant-essence/1000
+    pencil-lead/1000
 ]
 isFirstTier: true
 size: 3
