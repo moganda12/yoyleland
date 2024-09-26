@@ -1,14 +1,15 @@
 {
 type: Drill
 name: Basic Ground Drill
-description: A basic drill for simple materials
+description: A basic drill for simple materials.
+health: 900
 drillTime: 230
 hasLiquids: false
 size: 3
 category: production
 research: bad-drawing
 alwaysUnlocked: true
-teir: 3
+tier: 3
 
 requirements: [
     "copper/1"
